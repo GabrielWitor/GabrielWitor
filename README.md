@@ -10,5 +10,5 @@
 </p>
 
 <p align="left">
- Ferramentas: <strong>VSCode, Linux</strong>
+ Ferramentas: <strong>VSCode, Linux, Windows, WSL</strong>
 </p>
