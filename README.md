@@ -1,14 +1,14 @@
+# Gabriel Witor
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Meu nome é <strong>Gabriel Witor<strong>, estou cursando <strong>Ciência da Computação</strong>.<br>
-  No momento estou estudando para me tornar um desenvolvedor.
-</p>
 
-<p align="left">
-  Linguagens: <strong>Python e C</strong>
-</p>
+Olá! Meu nome é <strong>Gabriel Witor</strong>. Estou cursando <strong>Ciência da Computação</strong> e sou apaixonado por tecnologia.
 
-<p align="left">
- Ferramentas: <strong>VSCode, Linux, Windows, WSL</strong>
-</p>
+
+
+### Tecnologias que utilizo: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+### Linguagens:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
