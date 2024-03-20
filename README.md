@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-Olá! Meu nome é <strong>Gabriel Witor</strong>. Tenho 20 anos e estou cursando <strong>Ciência da Computação</strong> na <strong>UENP<strong/> e tenho interesse na área de sistemas operacionais, backend e servidores.
+Olá! Meu nome é <strong>Gabriel Witor</strong>. Tenho 20 anos, estou cursando <strong>Ciência da Computação</strong> na <strong>UENP<strong/> e tenho interesse na área de sistemas operacionais, backend e servidores.
 
 Caso queira, você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/gabriel-witor/).
 
