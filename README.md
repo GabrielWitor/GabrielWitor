@@ -1,7 +1,9 @@
 # Hey there!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5BADF7&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-Let-me introduce myself. My name is **Gabriel Witor**, I'm 20 years old and in this page you'll find some of my projects. I'm really passionate about learning everything technology related, including but not limited to: General software development, machine learning, operating systems, servers, databases and security.
+Let-me introduce myself. My name is **Gabriel Witor** and my close relation with computers started as a kid, when i would spend countless hours tinkering and tweaking things on my computer. My first contact with code was when i was around 11 years old, when I got into minecraft mods and plugins to create servers. Now I'm 20 years old, and I'm persuing my dream to become a software developer! :)
+
+In this page you'll find some of my projects. I'm really passionate about learning everything technology related, including but not limited to: General software development, machine learning, operating systems, servers, databases and security.
 
 <h3>I'm currently working mostly with: </h3>
 <h3>
