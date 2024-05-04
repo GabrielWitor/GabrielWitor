@@ -1,14 +1,17 @@
-# Gabriel Witor
+# Hey there!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5BADF7&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Let-me introduce myself. My name is **Gabriel Witor**, I'm 20 years old and in this page you'll find some of my projects. I'm really passionate about learning everything technology related, including but not limited to: General software development, machine learning, operating systems, servers, databases and security.
+
+<h3>I'm currently working mostly with: </h3>
+<h3>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "></img>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "></img>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+</h3>
 
 
-Olá! Meu nome é <strong>Gabriel Witor</strong>. Tenho 20 anos, estou cursando <strong>Ciência da Computação</strong> na <strong>UENP<strong/> e tenho interesse na área de sistemas operacionais, backend e servidores.
+If you want to get in touch, feel free to send me a message in my [LinkedIn](https://www.linkedin.com/in/gabriel-witor/).
 
-Caso queira, você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/gabriel-witor/).
-
-### Tecnologias que utilizo: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-### Linguagens:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
